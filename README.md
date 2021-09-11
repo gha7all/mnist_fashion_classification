@@ -1,2 +1,2 @@
 # mnist_fashion_classification
-using convolutional neural networks for classification mnist fashion dataset.
+using convolutional neural networks to classify mnist fashion dataset.
